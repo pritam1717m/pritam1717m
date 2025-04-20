@@ -42,10 +42,13 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://img.shields.io/badge/Github%20Stats-117185?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=radical&_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pritam1717m&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+| ![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=radical&_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ------------- | ------------- |
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam1717m&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
 <br/>
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/pritam1717m.pritam1717m.svg)
+![views since 2025/01/01](https://visitor-badge-deno.deno.dev/pritam1717m.pritam1717m.svg)
