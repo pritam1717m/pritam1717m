@@ -6,8 +6,10 @@ You can click the Preview link to take a look at your changes.
     
 ![Learning Next.js](https://img.shields.io/badge/🌱_Learning-Next.js-139191?style=for-the-badge)
 [![Old GitHub Account](https://img.shields.io/badge/😭_Old_Account-pritammandal1717-139191?style=for-the-badge)](https://github.com/pritammandal1717)
-    
-# Technical Skills: 
+
+<br/>
+
+![Technical Skills](https://img.shields.io/badge/Technical%20Skills-117185?style=for-the-badge)
 <p align="left">
   <img src="https://img.icons8.com/color/90/c-programming.png" alt="C" width="50" height="50" hspace="5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50" hspace="5"/>
@@ -36,14 +38,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" hspace="5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="50" height="50" hspace="5"/>
 </p>
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://img.shields.io/badge/Github%20Stats-117185?style=for-the-badge)
+
+![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=radical&_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pritam1717m&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/pritam1717m.pritam1717m.svg)
