@@ -2,7 +2,7 @@
 pritam1717m/pritam1717m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=42&pause=1000&color=06D1D1&vCenter=true&width=600&height=82&lines=Hello+From+Pritam+...;Full+Stack+Web+Developer;Programmer;Check+My+Repositories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=42&pause=1000&color=06D1D1&vCenter=true&width=600&height=82&lines=Hello+I'm+Pritam+👋🏼;Full+Stack+Web+Developer;Programmer;⭐+Star+My+Repositories)](https://git.io/typing-svg)
     
 ![Learning Next.js](https://img.shields.io/badge/🌱_Learning-Next.js-139191?style=for-the-badge)
 [![Old GitHub Account](https://img.shields.io/badge/😭_Old_Account-pritammandal1717-139191?style=for-the-badge)](https://github.com/pritammandal1717)
