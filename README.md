@@ -42,11 +42,11 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://img.shields.io/badge/Github%20Stats-117185?style=for-the-badge)
 
-| ![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=radical&_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=pritam1717m&theme=github_dark_dimmed&_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam1717m&theme=github_dark_dimmed&border=false&include_all_commits=true&count_private=true&layout=compact) |
 | ------------- | ------------- |
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam1717m&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam1717m&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <br/>
